@@ -1,45 +1,55 @@
-# Tekulapally Anuhya - HTML & CSS Portfolio
+# Tekulapally Anuhya — Portfolio
 
-Personal portfolio website built with HTML5 and CSS3 only (no JavaScript, no frameworks).
+A personal portfolio website introducing Anuhya, a Computer Science and Engineering student and aspiring web developer. It brings together her experience, skills, projects, education, certifications, achievements, and contact links in one responsive site.
 
-## Folder structure
+**Technologies:** HTML5, CSS3, and vanilla JavaScript.
 
-```
-Tekulapally_Anuhya_HTML_CSS_Portfolio/
-├── index.html
-├── style.css
-├── images/          (add profile.jpg here if you want one)
-└── screenshots/     (put desktop.png and mobile.png here)
-```
+## Portfolio sections
 
-## Before you submit - edit these sample details
+- Introduction and profile
+- About and internship experience
+- Skills and technologies
+- Selected projects, with links to their repositories and demos
+- Education
+- Certifications and achievements
+- Email, LinkedIn, and GitHub contact links
 
-The content is sample text. Replace it with your own in `index.html`:
+The layout adapts to desktop and phone screens. The site also includes a mobile navigation menu, keyboard-friendly focus styles, and reduced-motion support.
 
-1. **About > Biography** - rewrite in your own words.
-2. **About > Education** - course, college and graduation year.
-3. **Skills** - keep at least 5 that are true for you.
-4. **Projects** - replace the 3 sample projects with your real ones.
-5. **Contact** - your real email, LinkedIn and GitHub links.
-6. **Footer** - year and name.
+## View the site
 
-## How to view
+No build step or package installation is required. Clone or download this repository, then open `index.html` in a modern browser such as Chrome or Edge.
 
-Double-click `index.html` to open it in Chrome or Edge.
+To work on the site, open the project folder in your preferred editor. The page loads `style.css`, `script.js`, and the profile photo from `images/`.
 
 ## Screenshots
 
-1. Open `index.html` in Chrome.
-2. Press F12, then Ctrl+Shift+M for the device toolbar.
-3. Take one screenshot at desktop width and one at a phone width (e.g. 390px).
-4. Save them as `screenshots/desktop.png` and `screenshots/mobile.png`.
+### Desktop
 
-## Submission
+![Portfolio displayed on a desktop screen](screenshots/desktop/Screenshot%20%2819%29.png)
 
-- Zip this folder and upload it to the official form before **16 October 2026**.
-- Project description (3-5 sentences, you can reuse this):
-  "This is my personal portfolio website built with HTML5 and CSS3. It has a
-  navigation bar, hero section, About, Skills, Projects, Contact and Footer
-  sections. I used semantic tags, CSS variables, Flexbox and Grid for layout,
-  hover and focus effects on buttons and cards, and a media query so the site
-  works on phones and tablets."
+### Phone
+
+<p align="center">
+  <img src="screenshots/phone.png/Screenshot%20%2818%29.png" alt="Portfolio displayed on a phone screen" width="300">
+</p>
+
+## Project files
+
+```text
+.
+├── index.html
+├── style.css
+├── script.js
+├── images/
+│   └── profile.jpeg
+└── screenshots/
+    ├── desktop/
+    └── phone.png/
+```
+
+## Connect
+
+- **GitHub:** [Anuhya2510](https://github.com/Anuhya2510)
+- **LinkedIn:** [Tekulapally Anuhya](https://www.linkedin.com/in/anuhya-tekulapally-543748323/)
+- **Email:** [anuhyatekulapally@gmail.com](mailto:anuhyatekulapally@gmail.com)
